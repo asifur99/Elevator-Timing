@@ -108,16 +108,16 @@
         - UI view
 
 ### UML Class, Sequence, State Machine and Timing Diagrams
-#### elevatorSubsystem_UML_Iteration5.jpg
-#### floorSubsystem_UML_iteration5.jpg
-#### schedulerSubsystem_UML_Iteration5.jpg
-#### SequenceDiagram_Iteration5.png
-#### Timing_Diagram_for_Scheduler_Threads_Iteration5.jpg
-#### SchedulerSS_StateDiagram_Iteration5.png
+#### - elevatorSubsystem_UML_Iteration5.jpg
+#### - floorSubsystem_UML_iteration5.jpg
+#### - schedulerSubsystem_UML_Iteration5.jpg
+#### - SequenceDiagram_Iteration5.png
+#### - Timing_Diagram_for_Scheduler_Threads_Iteration5.jpg
+#### - SchedulerSS_StateDiagram_Iteration5.png
 
 ### Additional Documentation
-#### SYSC3303-FinalProjectDemo-L4G6.mp4 : **Project Demo Video**
-#### SYSC3303-FinalProjectReport-L4G6.pdf : **Project Report**
+#### - SYSC3303-FinalProjectDemo-L4G6.mp4 : **Project Demo Video**
+#### - SYSC3303-FinalProjectReport-L4G6.pdf : **Project Report**
 
 ### Input.txt explanation
 _*Eg data*:_ "14:05:15.000 2 Up 4 DOOR 3"
