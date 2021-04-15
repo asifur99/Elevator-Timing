@@ -138,7 +138,7 @@ _*Eg data*:_ "14:05:15.000 2 Up 4 DOOR 3"
 - Asifur Rahman: 
     - UML, README and Testing
 - Md Aiman Sharif:  
-    -Testing framework
+    - Testing framework
 
 ## Iteration 2
 - Ashton Mohns: 
